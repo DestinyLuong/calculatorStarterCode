@@ -65,7 +65,7 @@ function generateRandomNumber() {
     return Math.log;
 }
 
-console.assert(generateRandomNumber () === , "Blank should equal random");
+
 
 // BONUS: write assertions to test whether your functions work!
 // Here are some examples for divide(x,y), can you write more for the other functions?
