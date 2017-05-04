@@ -35,7 +35,7 @@ console.assert(add (1,1) === 2, "1+1 should equal 2");
 //    write a function named "power" that takes in two parameters and returns their result
 
 function power(x,y) {
-    return x ^ y;    
+    return Math.pow(x,y);    
 }
 
 console.assert(power (1,1) === 1, "1^1 should equal 1");
